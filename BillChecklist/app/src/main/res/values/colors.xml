@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#1565C0</color>
+    <color name="colorPrimaryDark">#0D47A1</color>
+    <color name="colorAccent">#42A5F5</color>
+
+    <color name="paid_green">#2E7D32</color>
+    <color name="pending_red">#C62828</color>
+    <color name="delete_icon_tint">#9E9E9E</color>
+
+    <color name="bg_main">#F5F5F5</color>
+    <color name="text_primary">#212121</color>
+    <color name="text_secondary">#757575</color>
+
+    <color name="badge_bg">#80000000</color>
+</resources>
